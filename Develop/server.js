@@ -5,8 +5,8 @@ const path = require("path");
 
 // Sets up the Express App
 const app = express();
-// Sets port for listening and let heroku decide on port, if not, use port 3000
-const PORT = process.env.PORT || 3000;
+// Sets port for listening and let heroku decide on port, if not, use port 3001
+const PORT = process.env.PORT || 3001;
 
 //serve images, CSS files, and JavaScript files in a directory named public
 app.use(express.static('public'));
