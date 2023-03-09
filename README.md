@@ -20,6 +20,8 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 ## Demo
 
 [Screenshot](screenshot.png)
+<image src = "C:\Users\Guest1\Desktop\challenges\Note-Taker\Screenshot.png">
+
 
   [Walkthrough Video]()
 
