@@ -19,7 +19,7 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 
 ## Demo
 
-[Screenshot]()
+[Screenshot](screenshot.png)
 
   [Walkthrough Video]()
 
