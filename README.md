@@ -19,15 +19,13 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 
 ## Demo
 
-<<<<<<< HEAD
+
   ## Screenshot
-=======
+
 [Screenshot](screenshot.png)
 <image src = "Screenshot.png">
 
->>>>>>> ea3f905828855d69e2516bf93cf2705380e47fca
 
-  (screenshot.png)
 
   [Walkthrough Video]("https://www.loom.com/embed/39f2a5cda2e743ddbbc8524907e0cb07")
 
