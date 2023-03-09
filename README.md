@@ -20,10 +20,10 @@ You can access more badges and their purposes at [shields.io](https://shields.io
 ## Demo
 
   ## Screenshot
-  
+
   (screenshot.png)
 
-  [Walkthrough Video]()
+  [Walkthrough Video]("https://www.loom.com/embed/39f2a5cda2e743ddbbc8524907e0cb07")
 
 
 ## Questions
